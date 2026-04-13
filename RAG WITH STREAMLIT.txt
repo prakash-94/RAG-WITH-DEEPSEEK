@@ -68,7 +68,7 @@ faiss_db = FAISS.from_documents(text_chunks,get_embedding_model(ollama_embedding
 faiss_db.save_local(FAISS_DB_PATH)
 
 
-API KEY OF GROQ_CLOUD = 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
+API KEY OF GROQ_CLOUD = moved to .env
 
 
 
